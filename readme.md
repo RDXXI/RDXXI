@@ -13,7 +13,7 @@ Soy desarrollador de software con experiencia liderando proyectos, diseñando ar
 - 🔹 Experiencia en **.NET Core, React, Java Spring Boot, Python**  
 - 🔹 Especialista en **arquitectura modular, microservicios y CI/CD**  
 - 🔹 Habilidades en **data engineering (ETL, OLAP, BI, Data Warehousing)**  
-- Contacto: **ruben777_93@hotmail.com**  
+- Contacto: **ruben777_93@hotmail.com / ruben.alava@hotmail.com**  
 
 ---
 
