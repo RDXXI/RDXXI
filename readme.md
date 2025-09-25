@@ -1,9 +1,10 @@
 # Hola, soy Rubén Darío Álava
 
-**Full-Stack Developer**  
-Especializado en Backend | C# | .NET Core | React | Java | Python  
+**Full-Stack Developer | C# | .NET Core | React | Angular | Java | Python**
 
 Soy desarrollador de software con experiencia liderando proyectos, diseñando arquitecturas modulares, integrando microservicios y construyendo soluciones escalables. Apasionado por la innovación, la automatización y las tecnologías modernas para el desarrollo de software.
+
+![Profile Views](https://komarev.com/ghpvc/?username=RDXXI&style=flat-square&color=blue)
 
 ---
 
