@@ -5,6 +5,8 @@
 Soy desarrollador de software con experiencia liderando proyectos, diseñando arquitecturas modulares, integrando microservicios y construyendo soluciones escalables. Apasionado por la innovación, la automatización y las tecnologías modernas para el desarrollo de software.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RDXXI&style=flat-square&color=blue)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RDXXI&show_icons=true&theme=radical)
+![Racha de GitHub](https://streak-stats.demolab.com/?user=RDXXI)
 
 ---
 
