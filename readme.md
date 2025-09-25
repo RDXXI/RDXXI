@@ -153,6 +153,6 @@ Soy desarrollador de software con experiencia liderando proyectos, diseñando ar
 
 ## Contacta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rub%C3%A9n-dar%C3%ADo-alava-0699a596/)  
-[![Email 1](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben.alava@hotmail.com)
-[![Email 2](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben777_93@hotmail.com)
+[![Email1](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben.alava@hotmail.com)
+[![Email2](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben777_93@hotmail.com)
 
