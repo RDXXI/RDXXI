@@ -98,24 +98,35 @@ Soy desarrollador de software con experiencia liderando proyectos, diseñando ar
 
 ---
 
-## Proyectos Destacados
+## Proyectos Publicos
 
-### Sistema de Gestión Modular
-- Plataforma **modular y escalable** con microservicios  
-- Gestión de ventas, inventario, usuarios y auditoría  
-- **Stack:** .NET Core, React, SQL Server, Docker  
+### BackMarcaAuto
+- API para la gestión de marcas de autos.  
+- Incluye CRUD y arquitectura modular.  
+- **Stack:** .NET Core, SQL Server  
+🔗 [Repositorio](https://github.com/RDXXI/BackMarcaAuto)
 
-### Tienda Online NextShop
-- Carrito de compras, productos y diseño responsive  
-- **Stack:** Next.js, TypeScript, PostgreSQL  
 
-### Asistente StudyBot
-- Generación de resúmenes y tests desde PDFs  
-- **Stack:** Python, LLMs, Automatización  
+### 🛒 TestCarrito
+- Implementación de carrito de compras con operaciones básicas.  
+- Manejo de productos, cantidades y totales.  
+- **Stack:** React, Node.js  
+[Repositorio](https://github.com/RDXXI/testCarrito/)
 
-### SkyCast
-- Aplicación del clima con geolocalización y mini-portfolio  
-- **Stack:** TypeScript, React  
+
+### Seguro
+- Aplicación orientada a la gestión de seguros.  
+- Incluye autenticación, gestión de clientes y pólizas.  
+- **Stack:** .NET Core, React, SQL Server  
+[Repositorio](https://github.com/RDXXI/seguro)
+
+
+### FullStack Inventory System
+- Sistema de gestión de inventarios con frontend y backend integrados.  
+- Manejo de productos, categorías y stock.  
+- **Stack:** .NET Core, React, SQL Server  
+[Repositorio](https://github.com/RDXXI/fullstack-inventory-system)
+
 
 ---
 
