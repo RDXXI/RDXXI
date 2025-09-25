@@ -104,28 +104,29 @@ Soy desarrollador de software con experiencia liderando proyectos, diseñando ar
 - API para la gestión de marcas de autos.  
 - Incluye CRUD y arquitectura modular.  
 - **Stack:** .NET Core, SQL Server  
-🔗 [Repositorio](https://github.com/RDXXI/BackMarcaAuto)
+[![Repositorio](https://img.shields.io/badge/Repositorio-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDXXI/BackMarcaAuto)
 
 
-### 🛒 TestCarrito
+### TestCarrito
 - Implementación de carrito de compras con operaciones básicas.  
 - Manejo de productos, cantidades y totales.  
 - **Stack:** React, Node.js  
-[Repositorio](https://github.com/RDXXI/testCarrito/)
+[![Repositorio](https://img.shields.io/badge/Repositorio-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDXXI/testCarrito/)
+
 
 
 ### Seguro
 - Aplicación orientada a la gestión de seguros.  
 - Incluye autenticación, gestión de clientes y pólizas.  
 - **Stack:** .NET Core, React, SQL Server  
-[Repositorio](https://github.com/RDXXI/seguro)
+[![Repositorio](https://img.shields.io/badge/Repositorio-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDXXI/seguro)
 
 
 ### FullStack Inventory System
 - Sistema de gestión de inventarios con frontend y backend integrados.  
 - Manejo de productos, categorías y stock.  
 - **Stack:** .NET Core, React, SQL Server  
-[Repositorio](https://github.com/RDXXI/fullstack-inventory-system)
+[![Repositorio](https://img.shields.io/badge/Repositorio-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDXXI/fullstack-inventory-system)
 
 
 ---
