@@ -1,6 +1,6 @@
 # Hola, soy Rubén Darío Álava
 
-**Full-Stack Developer | C# | .NET Core | React | Angular | Java | Python | React Native | Node.JS (NestJS, Express)**
+**Full-Stack Developer | C# | .NET Core | React | Angular | Java | Python | PHP | React Native | Node.JS (NestJS, Express)**
 
 Soy desarrollador de software con experiencia liderando proyectos, diseñando arquitecturas modulares, integrando microservicios y construyendo soluciones escalables. Apasionado por la innovación, la automatización y las tecnologías modernas para el desarrollo de software.
 
@@ -65,7 +65,7 @@ Soy desarrollador de software con experiencia liderando proyectos, diseñando ar
 - Seguridad: **JWT, autenticación y autorización**  
 
 ### Desarrollo Frontend
-- Aplicaciones web con **PHP, Vue, React, Angular, Next.js y MAUI**  
+- Aplicaciones web con **PHP, Laravel, Symfony, Slim, Lumen, Laravel, Vue, React, Angular, Next.js y MAUI**  
 - Interfaces **responsive y modernas** con CSS3, HTML5 y TailwindCSS  
 - **React Native** para desarrollo móvil multiplataforma  
 
