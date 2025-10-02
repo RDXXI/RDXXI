@@ -142,7 +142,7 @@ Soy desarrollador de software con experiencia liderando proyectos, diseñando ar
 ### FullStack Inventory System
 - Sistema de gestión de inventarios con frontend y backend integrados.  
 - Manejo de productos, categorías y stock.  
-- **Stack:** .NET Core, React, SQL Server  
+- **Stack:** .NET Core, Angular, React, SQL Server  
 [![Repositorio](https://img.shields.io/badge/Repositorio-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDXXI/fullstack-inventory-system)
 
 
