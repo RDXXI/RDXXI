@@ -65,7 +65,7 @@ Soy desarrollador de software con experiencia liderando proyectos, diseñando ar
 - Seguridad: **JWT, autenticación y autorización**  
 
 ### Desarrollo Frontend
-- Aplicaciones web con **PHP, Laravel, Symfony, Slim, Lumen, Laravel, Vue, React, Angular, Next.js y MAUI**  
+- Aplicaciones web con **PHP, Laravel, Symfony, Slim, Lumen, Laravel, Vue, React, React Native, Angular, Next.js y MAUI**  
 - Interfaces **responsive y modernas** con CSS3, HTML5 y TailwindCSS  
 - **React Native** para desarrollo móvil multiplataforma  
 
