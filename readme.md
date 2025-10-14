@@ -151,7 +151,9 @@ Soy desarrollador de software con experiencia liderando proyectos, diseñando ar
 - Sistema de reconocimiento facial inteligente con arquitectura modular basada en DDD (Domain-Driven Design).
 - Permite registrar, identificar y autenticar rostros mediante cámara o imágenes, con opción de integración a sistemas de control de acceso o asistencia.
 - **Stack:** Python, Flask, OpenCV, face_recognition, NumPy.
-[![Repositorio](https://img.shields.io/badge/Repositorio-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDXXI/face-recognition)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-28a745?
+style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDXXI/face-recognition)
 
 
 ---
