@@ -158,8 +158,8 @@ Soy desarrollador de software con experiencia liderando proyectos, diseñando ar
 ---
 
 ## Estadísticas de GitHub
-// ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXXI&show_icons=true&theme=radical)
-// ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDXXI&layout=compact&theme=radical)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXXI&show_icons=true&theme=radical)-->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDXXI&layout=compact&theme=radical)-->
 
 ---
 
